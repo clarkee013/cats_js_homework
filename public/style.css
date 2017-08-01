@@ -1,0 +1,23 @@
+h1{
+  color: white;
+  text-align: center;
+  text-decoration: blue underline;
+  font-family: fantasy;
+
+}
+
+h4{
+  color: blue;
+  text-align: left;
+  text-decoration: lightblue underline;
+  font-style: italic;
+  font-family: fantasy;
+}
+
+body{
+  background-color: lightblue;
+}
+
+li{
+  font-family: fantasy;
+}
